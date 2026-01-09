@@ -1,0 +1,9 @@
+[package]
+name = "cli-todo-app"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+serde = "1.0.228"
+serde_json = "1.0.149"
+

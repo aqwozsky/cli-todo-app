@@ -1,0 +1,9 @@
+Array [
+    Object {
+        "Completed": String("Incomplete"),
+        "Todo": String("Get apple and banana"),
+    },
+]
+
+That's how a todo looks in todos.json
+Every Todo looks like Object in array (database)
