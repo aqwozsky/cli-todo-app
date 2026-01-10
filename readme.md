@@ -59,7 +59,7 @@ C:.
 If you have rust installed and if you only want to run it:
 
 ```
-git clone <resp>
+git clone https://github.com/aqwozsky/cli-todo-app.git
 cd cli-todo-app
 cargo run
 ```
@@ -67,7 +67,7 @@ cargo run
 to build it:
 
 ```
-git clone <resp>
+git clone https://github.com/aqwozsky/cli-todo-app.git
 cd cli-todo-app
 cargo build
 ```
